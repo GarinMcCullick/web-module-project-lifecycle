@@ -7,7 +7,6 @@ class UserCard extends React.Component {
         return(
             <div>
                 <UserSearch />
-                
             </div>
         )
     }
